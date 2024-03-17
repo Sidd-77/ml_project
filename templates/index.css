@@ -1,0 +1,35 @@
+/* Styling for form fields */
+.input-field {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #333;
+}
+
+/* Styling for headings */
+.heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Additional styling for specific form fields */
+.email-field {
+    /* Add specific styling for email fields here */
+}
+
+.password-field {
+    /* Add specific styling for password fields here */
+}
+
+/* Additional styling for specific headings */
+.subheading {
+    font-size: 18px;
+    font-weight: bold;
+    color: #666;
+    margin-bottom: 5px;
+}
